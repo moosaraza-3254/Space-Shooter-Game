@@ -1,6 +1,6 @@
 # Space-Shooter-Game
 Introduction
-Space Shooter Game is a classic arcade-style game built using [insert programming language or game engine here]. Players control a spaceship and must navigate through an asteroid field while battling enemy spacecraft. The goal is to survive as long as possible while achieving the highest score.
+Space Shooter Game is a classic arcade-style game built using C++ (SFML). Players control a spaceship and must navigate through an asteroid field while battling enemy spacecraft. The goal is to survive as long as possible while achieving the highest score.
 
 Features
 Intuitive Controls: Simple controls make it easy for players to navigate their spaceship and engage in combat.
